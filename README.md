@@ -10,7 +10,7 @@ Healthcare: Cerner EHR • Electronic Medical Records (EMR) • Clinical Documen
 
 ## PROFESSIONAL EXPERIENCE
 
-** Respiratory Care Practitioner**
+** ##Respiratory Care Practitioner**
 
 **Texas Center for Infectious Disease (Texas Department of State Health Services)** 
 
