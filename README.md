@@ -10,11 +10,11 @@ Healthcare: Cerner EHR • Electronic Medical Records (EMR) • Clinical Documen
 
 ## PROFESSIONAL EXPERIENCE
 
-**- Respiratory Care Practitioner**
+** Respiratory Care Practitioner**
 
-**- Texas Center for Infectious Disease (Texas Department of State Health Services)** 
+**Texas Center for Infectious Disease (Texas Department of State Health Services)** 
 
-**-San Antonio, TX April 2019 – Present**
+**San Antonio, TX April 2019 – Present**
 
 **-Deliver specialized respiratory care for patients with infectious diseases and complex pulmonary conditions.**
 
