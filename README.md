@@ -13,8 +13,8 @@ Healthcare: Cerner EHR • Electronic Medical Records (EMR) • Clinical Documen
 *Respiratory Care Practitioner
 Texas Center for Infectious Disease (Texas Department of State Health Services) | San Antonio, TX
 April 2019 – Present*
-•	Deliver specialized respiratory care for patients with infectious diseases and complex pulmonary conditions.
-•	Analyze patient assessments, laboratory data, ventilator settings, and treatment outcomes to support evidence-based clinical decisions.
+**-Deliver specialized respiratory care for patients with infectious diseases and complex pulmonary conditions.**
+**-Analyze patient assessments, laboratory data, ventilator settings, and treatment outcomes to support evidence-based clinical decisions.**
 •	Document patient care and respiratory interventions using Cerner EHR.
 •	Participate in quality improvement initiatives by monitoring respiratory performance indicators and patient outcomes.
 •	Collaborate with physicians, nurses, pharmacists, infection prevention specialists, and case managers.
