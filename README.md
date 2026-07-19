@@ -46,10 +46,7 @@ Predicting Ventilator Weaning Success Using Machine Learning
 •	Presented findings using Tableau dashboards.
 Install my-project with npm
 
-```bash
-npm install my-project
-cd my-project
-```
+
 
 ## Healthcare Quality Dashboard
 •	Developed interactive Tableau dashboards to monitor respiratory quality metrics.
