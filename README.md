@@ -1,1 +1,2 @@
-# GitHub-Portfolio
+# Portfolio
+Healthcare Data Analyst and Registered Respiratory Therapist with 11+ years of experience in critical care, infectious disease, and acute care settings. Master of Science in Data Analytics with expertise in SQL, Python, Tableau, Power BI, Excel, machine learning, and healthcare analytics. Experienced in analyzing clinical data, developing dashboards, identifying quality improvement opportunities, and translating complex healthcare data into actionable insights. Strong knowledge of Cerner EHR, clinical workflows, HIPAA compliance, and interdisciplinary collaboration.
