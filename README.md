@@ -10,9 +10,9 @@ Healthcare: Cerner EHR • Electronic Medical Records (EMR) • Clinical Documen
 
 ## PROFESSIONAL EXPERIENCE
 
-Respiratory Care Practitioner
+*Respiratory Care Practitioner
 Texas Center for Infectious Disease (Texas Department of State Health Services) | San Antonio, TX
-April 2019 – Present
+April 2019 – Present*
 •	Deliver specialized respiratory care for patients with infectious diseases and complex pulmonary conditions.
 •	Analyze patient assessments, laboratory data, ventilator settings, and treatment outcomes to support evidence-based clinical decisions.
 •	Document patient care and respiratory interventions using Cerner EHR.
@@ -20,9 +20,9 @@ April 2019 – Present
 •	Collaborate with physicians, nurses, pharmacists, infection prevention specialists, and case managers.
 •	Mentor respiratory therapists, students, and newly hired staff.
 
-Registered Respiratory Therapist
+*Registered Respiratory Therapist
 Northeast Baptist Hospital (Tenet Healthcare) | San Antonio, TX
-February 2015 – January 2026
+February 2015 – January 2026*
 •	Provided respiratory care in ICU, Emergency Department, and acute care units.
 •	Managed mechanical ventilation, oxygen therapy, airway management, and emergency respiratory interventions.
 •	Performed comprehensive patient assessments and documented care using Cerner EHR.
