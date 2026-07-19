@@ -44,7 +44,12 @@ Predicting Ventilator Weaning Success Using Machine Learning
 •	Built Logistic Regression and Random Forest predictive models.
 •	Evaluated models using Accuracy, Precision, Recall, F1-score, and ROC-AUC.
 •	Presented findings using Tableau dashboards.
+Install my-project with npm
 
+```bash
+npm install my-project
+cd my-project
+```
 
 ## Healthcare Quality Dashboard
 •	Developed interactive Tableau dashboards to monitor respiratory quality metrics.
