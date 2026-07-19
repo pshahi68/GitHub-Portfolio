@@ -10,7 +10,7 @@ Healthcare: Cerner EHR • Electronic Medical Records (EMR) • Clinical Documen
 
 ## PROFESSIONAL EXPERIENCE
 
-** ##Respiratory Care Practitioner**
+** Respiratory Care Practitioner**
 
 **Texas Center for Infectious Disease (Texas Department of State Health Services)** 
 
@@ -20,10 +20,13 @@ Healthcare: Cerner EHR • Electronic Medical Records (EMR) • Clinical Documen
 
 **-Analyze patient assessments, laboratory data, ventilator settings, and treatment outcomes to support evidence-based clinical decisions.**
 
-•	Document patient care and respiratory interventions using Cerner EHR.
-•	Participate in quality improvement initiatives by monitoring respiratory performance indicators and patient outcomes.
-•	Collaborate with physicians, nurses, pharmacists, infection prevention specialists, and case managers.
-•	Mentor respiratory therapists, students, and newly hired staff.
+**-Document patient care and respiratory interventions using Cerner EHR.**
+
+**-Participate in quality improvement initiatives by monitoring respiratory performance indicators and patient outcomes.**
+
+**-Collaborate with physicians, nurses, pharmacists, infection prevention specialists, and case managers.**
+
+**-Mentor respiratory therapists, students, and newly hired staff.**
 
 *Registered Respiratory Therapist
 Northeast Baptist Hospital (Tenet Healthcare) | San Antonio, TX
