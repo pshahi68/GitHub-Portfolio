@@ -60,12 +60,15 @@ Clinical Outcomes Analysis
 
 ## EDUCATION
 Master of Science in Data Analytics
+
 Eastern University | 2026
 
 Bachelor of Science in Respiratory Care
+
 Texas State University | 2024
 
 Associate Degree in Biotechnology
+
 Bunker Hill Community College | 2014
 
 
