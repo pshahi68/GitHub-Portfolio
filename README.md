@@ -71,9 +71,12 @@ Bunker Hill Community College | 2014
 
 ## CERTIFICATIONS
  Registered Respiratory Therapist (RRT)
+ 
  Advanced Cardiovascular Life Support (ACLS)
+ 
  Basic Life Support (BLS)
- Applied Clinical research/Good Clinical Practice
+ 
+ Applied Clinical Research/Good Clinical Practice
 
 
 <h3 align="left">Connect with me:</h3>
