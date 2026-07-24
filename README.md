@@ -29,9 +29,11 @@ Respiratory Care Practitioner
 **-Mentor respiratory therapists, students, and newly hired staff.**
 
 ## Registered Respiratory Therapist
-** Northeast Baptist Hospital (Tenet Healthcare)**
+Northeast Baptist Hospital (Tenet Healthcare)
+
 San Antonio, TX
 February 2015 – January 2026*
+
 •	Provided respiratory care in ICU, Emergency Department, and acute care units.
 •	Managed mechanical ventilation, oxygen therapy, airway management, and emergency respiratory interventions.
 •	Performed comprehensive patient assessments and documented care using Cerner EHR.
